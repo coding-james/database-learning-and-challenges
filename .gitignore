@@ -1,0 +1,14 @@
+# Editor directories and files
+.vs/*
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Exclude from ignore
+!.gitignore
